@@ -2,9 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
+  title: "海带丝干贝",
   description: "A VitePress Site",
-  base: "/vitepress-blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
